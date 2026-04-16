@@ -86,7 +86,7 @@ const recipe510624: Recipe = {
     },
     {
       title: "The Raven's Wing:",
-      description: "Once again, we must call upon the intellegent avian. A single component of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally.",
+      description: "Once again, we must call upon the intellegent avian. A few components of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally We should aim to have our avian component slightly outweigh our plant-based foundation.",
       ingredient: "ravenfeather"
     }
   ],
@@ -94,7 +94,7 @@ const recipe510624: Recipe = {
     "Stir clockwise with a rod made of pure gold.",
     "Whisper your deepest desire into the steam."
   ],
-  solutionColor: "#DAA520" // Pink-ish hue
+  solutionColor: "???" // Faint yellow-ish
 };
 
 const recipe741938: Recipe = {
