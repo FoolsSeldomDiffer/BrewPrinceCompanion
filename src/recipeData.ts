@@ -61,7 +61,7 @@ const recipe285913: Recipe = {
     }
   ],
   additionalInstructions: [
-    "Handle every ingredient with the utmost care and - time is a frail thing.",
+    "Handle every ingredient with the utmost care - time is a frail thing.",
     "Once hardened, wait at least one hour for the flask to be completely sealed before usage.",
     "When consuming the concoction, gulp it down AS SOON as the flask is opened. Time is ever-fleeting and can easily slip away."
 
