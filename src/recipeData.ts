@@ -99,7 +99,7 @@ const recipe510624: Recipe = {
 
 const recipe741938: Recipe = {
   id: "741938",
-  title: "Placebo of Plasmatic Panacea - Timeless Tonic of Cure-All",
+  title: "Potion of Living Ancients - Curative Elixir of Bacchanalian Overcompensation",
   intro: "Your alchemical journey has brought you here, to the pinnacle of all equivalent exchange and mastery over brewery. By closely obeying the following rules and instructions, you will craft the Alpha and Omega - a consumable so divine that it has the power of life itself and has existed since the dawn of mankind. After consuming the previous conconctions, the Panacea will be able to cure you and finally grant you reprieve.",
   steps: [
     {
