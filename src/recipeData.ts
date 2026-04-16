@@ -17,7 +17,7 @@ const initialRecipe: Recipe = {
     },
     {
       title: "The Verdant Hue",
-      description: "Ironically, the final touch for the Brew of Nightmares is a dash of soft green. That being said, contrary to its soft appeal, the liquid is still highly acidic.",
+      description: "Ironically, the final touch for the Brew of Nightmares is a dash of soft, dark green. That being said, contrary to its soft appeal, the liquid is still highly acidic. Please refrain from handling these without the necessary safety precautions.",
       ingredient: "green_liquid"
     }
   ],
@@ -30,28 +30,30 @@ const initialRecipe: Recipe = {
 
 const recipe285913: Recipe = {
   id: "285913",
-  title: "The Draught of Frozen Time",
-  intro: "To halt the ticking clock and preserve a moment for eternity:",
+  title: "The Flask of Frozen Time",
+  intro: "Where traditional medicine fails, arcane remedies can provide an alternative route to relief. When magic can not be used to cure the relevant ailments, one can always halt the progress of any disease using borrowed time.",
   steps: [
     {
-      title: "The Winter's Breath:",
-      description: "A puff of frost captured from the beard of the Ice Giant king.",
-      ingredient: "frostbreath"
+      title: "A Fragment of Flight:",
+      description: "In order to halt all passage of time, one must first capture the essence of freedom. A sliver of violet plucked from an intelligent yet foreboding creature should suffice.",
+      ingredient: "raven_feather"
     },
     {
-      title: "The Petrified Song:",
-      description: "A shard of crystal that resonates with the last note of a dying phoenix.",
-      ingredient: "phoenixshard"
+      title: "A Stream of Liquid Ice:",
+      description: "Novice alchemists would scoff at the description of the reagent known as Liquid Ice - the state of matter is something you learn in the first lessons at the Academy. It is no surprise, then, that a large amount of young alchemists end up in infirmaries with frostbite when handling the piercing blue Liquid Ice ",
+      ingredient: "lightblue_liquid"
     },
     {
-      title: "The Silver Silk:",
-      description: "Webs spun by the moon-spiders during the longest night of the year.",
-      ingredient: "moonsilk"
+      title: "The Fiery Seal:",
+      description: "When violet is submerged in dynamic blue, freezing temperature alone is not sufficient to capture true time. To seal our flask with crystalized time, fiery hot magma must be used to ellicit the correct alchemical reaction.",
+      ingredient: "firered_liquid"
     }
   ],
   additionalInstructions: [
-    "Cool in a bowl of mountain snow until it turns solid white.",
-    "Do not stir once the frost begins to form."
+    "Handle every ingredient with the utmost care and - time is a frail thing.",
+    "Once hardened, wait at least one hour for the flask to be completely sealed before usage.",
+    "When consuming the concoction, gulp it down AS SOON as the flask is opened. Time is ever-fleeting and can easily slip away."
+
   ]
 };
 
