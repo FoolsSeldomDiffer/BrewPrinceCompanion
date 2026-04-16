@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none">
+  <!-- Cauldron body -->
+  <path d="M4 10C4 10 4 19 12 19C20 19 20 10 20 10" stroke="#d49aff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M2 10H22" stroke="#d49aff" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Cauldron legs -->
+  <path d="M7 19L5 22" stroke="#d49aff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M17 19L19 22" stroke="#d49aff" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Bubbles/Steam -->
+  <circle cx="8" cy="6" r="1.5" fill="#d49aff" opacity="0.6"/>
+  <circle cx="12" cy="4" r="2" fill="#d49aff" opacity="0.8"/>
+  <circle cx="16" cy="7" r="1" fill="#d49aff" opacity="0.5"/>
+</svg>
