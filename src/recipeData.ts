@@ -59,22 +59,22 @@ const recipe285913: Recipe = {
 
 const recipe510624: Recipe = {
   id: "510624",
-  title: "The Essence of Liquid Gold",
-  intro: "To transmute lead into fortune, follow the ancient path of the sun:",
+  title: "The Phial of Psychosomatic Strengthening",
+  intro: "It is widely known that the mind and body are one and the same - an afflicted spirit oft leads to a weakened state of the physical. The aspring alchemist can thus deduct, that fortifying the psyche of the individual, must cure the body in turn.",
   steps: [
     {
-      title: "The Solar Flare:",
-      description: "A drop of nectar from the Sun-flower that blooms only at high noon.",
-      ingredient: "sunnectar"
+      title: "The Golden Nectar:",
+      description: "A common misconception is that Nectar is merely a vegetational substance. When used for an alchemical base, however, its latent mystical properties are truly unshackled. Its silky substance and stimulating aroma, enhanced by the alchemical processes, sharpen ones mind and provide immense clarity and serenity.",
+      ingredient: "golden_liquid"
     },
     {
-      title: "The Serpent's Heart:",
-      description: "The pulsing heart of a golden viper, freshly taken beneath the desert sun.",
-      ingredient: "viperheart"
+      title: "The Purple Heart:",
+      description: "To further compound the floral base, we must add a single sprig of the Purple Heart often found in the gardens of the monasteries. The scent of this plant will add a calming presence and sooth its imbiber with great tranquility.",
+      ingredient: "lavender"
     },
     {
       title: "The Raven's Wing:",
-      description: "A single feather from the bird that stole the sun from the sky.",
+      description: "Once again, we call upon the intellegent avian. A single component of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally.",
       ingredient: "ravenfeather"
     }
   ],
