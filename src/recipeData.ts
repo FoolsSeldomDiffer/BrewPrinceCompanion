@@ -42,23 +42,23 @@ const initialRecipe: Recipe = {
 
 const recipe285913: Recipe = {
   id: "285913",
-  title: "The Flask of Frozen Time",
+  title: "The Flask of Frozen Time", // lichtblauw: ["Bat Wing", "Frog Leg", "Bat Wing", "Frog Leg", "Lavender", "Dragon Blood"]
   intro: "Where traditional medicine fails, arcane remedies can provide an alternative route to relief. When magic can not be used to cure the relevant ailments, one can always halt the progress of any disease using borrowed time.",
   steps: [
     {
-      title: "A Fragment of Flight:",
-      description: "In order to halt all passage of time, one must first capture the essence of freedom. A sliver of violet plucked from an intelligent yet foreboding creature should suffice.",
-      ingredient: "raven_feather"
+      title: "Fragments of Freedom:",
+      description: "In order to halt all passage of time, one must first capture the essence of freedom. Freedom is bountiful in the animal kingdom - we must seek aspects of the creatures that roam the marshes and caves. We should add two elements of each creature, intertwined each and starting with the creature that needs no vision to experience true sensation.",
+      ingredient: "batwing, frogleg, batwing, frogleg."
     },
     {
-      title: "A Stream of Liquid Ice:",
-      description: "Novice alchemists would scoff at the description of the reagent known as Liquid Ice - the state of matter is something you learn in the first lessons at the Academy. It is no surprise, then, that a large amount of young alchemists end up in infirmaries with frostbite when handling the piercing blue Liquid Ice ",
-      ingredient: "lightblue_liquid"
+      title: "A Pluck of Luscious Life:",
+      description: "In order to captivate the beasts attention, we need to entice them with a alluring and equally calming scent. An odorant wild flower will do just the trick.",
+      ingredient: "lavender"
     },
     {
       title: "The Fiery Seal:",
-      description: "When violet is submerged in dynamic blue, freezing temperature alone is not sufficient for temporal containment. To seal our flask with crystalized time, fiery hot magma must be used to ellicit the correct alchemical reaction.",
-      ingredient: "firered_liquid"
+      description: "When violet is submerged in animalistic freedom, we need a powerful reagent for temporal containment. To seal our flask with crystalized time, a material resembling fiery hot magma must be used to ellicit the correct alchemical reaction.",
+      ingredient: "dragon_blood"
     }
   ],
   additionalInstructions: [
@@ -67,7 +67,7 @@ const recipe285913: Recipe = {
     "When consuming the concoction, gulp it down AS SOON as the flask is opened. Time is ever-fleeting and can easily slip away."
 
   ],
-  solutionColor: "#4169E1" // RoyalBlue
+  solutionColor: "#06fcf3" // Light Blue
 };
 
 const recipe510624: Recipe = {
