@@ -3,7 +3,7 @@ import { type Recipe } from './types';
 const initialRecipe: Recipe = {
   id: "original",
   title: "The Brew of Nightmares",
-  intro: "Few realise that a myriad of diseases and magical ailments can be counteracted by one another. In the distand lands to the East, many alchemists brew potions that stir up nightmares in order to overpower other undesirable afflictions - after all, nightmares don't end lives (often)...",
+  intro: "Few realise that a myriad of diseases and magical ailments can be counteracted by one another. In the distant lands to the East, many alchemists brew potions that stir up nightmares in order to overpower other undesirable afflictions - after all, nightmares don't end lives (often)...",
   steps: [
     {
       title: "The Purple Bushel:",
