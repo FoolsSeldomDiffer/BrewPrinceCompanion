@@ -48,7 +48,7 @@ function RecipeDisplay() {
     <article className="recipe-book">
       <h2>{recipe.title}</h2>
       <p className="recipe-intro">{recipe.intro}</p>
-      
+
       <ol className="recipe-steps">
         {recipe.steps.map((step, index) => (
           <li key={index}>
@@ -65,6 +65,15 @@ function RecipeDisplay() {
             <li key={index}>{instruction}</li>
           ))}
         </ul>
+      </section>
+
+      <section className="solution-color-preview">
+        <h3>Solution Preview:</h3>
+        <div
+          className="color-swatch"
+          style={{ backgroundColor: recipe.solutionColor, color: recipe.solutionColor }}
+          title={recipe.solutionColor}
+        />
       </section>
     </article>
   );

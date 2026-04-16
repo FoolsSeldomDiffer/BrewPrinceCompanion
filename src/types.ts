@@ -10,4 +10,5 @@ export interface Recipe {
   intro: string;
   steps: RecipeStep[];
   additionalInstructions: string[];
+  solutionColor: string;
 }

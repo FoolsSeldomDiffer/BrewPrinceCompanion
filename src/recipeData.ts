@@ -25,7 +25,8 @@ const initialRecipe: Recipe = {
     "Stir three times counter-clockwise after each ingredient.",
     "Ignore any and all hallucinations, visions and whispers that may arise during the brewing process.",
     "When the steam turns black and the liquid hums, the brew is ready for consumption."
-  ]
+  ],
+  solutionColor: "#228B22" // ForestGreen
 };
 
 const recipe285913: Recipe = {
@@ -54,7 +55,8 @@ const recipe285913: Recipe = {
     "Once hardened, wait at least one hour for the flask to be completely sealed before usage.",
     "When consuming the concoction, gulp it down AS SOON as the flask is opened. Time is ever-fleeting and can easily slip away."
 
-  ]
+  ],
+  solutionColor: "#4169E1" // RoyalBlue
 };
 
 const recipe510624: Recipe = {
@@ -81,7 +83,8 @@ const recipe510624: Recipe = {
   additionalInstructions: [
     "Stir clockwise with a rod made of pure gold.",
     "Whisper your deepest desire into the steam."
-  ]
+  ],
+  solutionColor: "#DAA520" // GoldenRod
 };
 
 const recipe741938: Recipe = {
@@ -108,7 +111,8 @@ const recipe741938: Recipe = {
   additionalInstructions: [
     "Boil until the liquid glows with a soft golden hue.",
     "Strain through a cloth woven from spider silk."
-  ]
+  ],
+  solutionColor: "#FFD700" // Gold
 };
 
 export const allRecipes: Record<string, Recipe> = {
