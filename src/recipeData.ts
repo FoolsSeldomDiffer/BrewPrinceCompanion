@@ -3,32 +3,28 @@ import { type Recipe } from './types';
 const initialRecipe: Recipe = {
   id: "original",
   title: "The Brew of Nightmares",
-  intro: "To complete the concoction and awaken the shadows, add the gifts of the night in this exact order:",
+  intro: "Few realise that a myriad of diseases and magical ailments can be counteracted by one another. In the distand lands to the East, many alchemists brew potions that stir up nightmares in order to overpower other undesirable afflictions - after all, nightmares don't end lives (often)...",
   steps: [
     {
-      title: "The Purple Calm:",
+      title: "The Purple Bushel:",
       description: "Seek the scent of serenity in a field of lilac blooms. Pluck the sprigs that soothe one's sleep and cast them into the seething liquid.",
       ingredient: "lavender"
     },
     {
-      title: "The Leap in the Dark:",
+      title: "A Leap of Faith:",
       description: "Add the limb of the croaker from the muddy pool, she who leaps when the moon hides behind the clouds.",
       ingredient: "frogleg"
     },
     {
-      title: "The Shadow of the Sky:",
+      title: "The Verdant Hue",
       description: "Take a gift from the messenger of death, as black as the night itself, fallen from a wing that never sings.",
       ingredient: "ravenfeather"
-    },
-    {
-      title: "The Leathery Sailer:",
-      description: "Finish with the membrane wing of the blind hunter who rests upon cave ceilings and only awakens when the light dies.",
-      ingredient: "batwing"
     }
   ],
   additionalInstructions: [
     "Stir three times counter-clockwise after each ingredient.",
-    "When the steam turns black, the brew is ready."
+    "Ignore any and all hallucinations, visions and whispers that may arise during the brewing process.",
+    "When the steam turns black and the liquid hums, the brew is ready for consumption."
   ]
 };
 
