@@ -37,7 +37,7 @@ const initialRecipe: Recipe = {
     "Ignore any and all hallucinations, visions and whispers that may arise during the brewing process.",
     "When the steam turns black and the liquid hums, the brew is ready for consumption."
   ],
-  solutionColor: "#3107b1" // ForestGreen
+  solutionColor: "#080001" // Dark
 };
 
 const recipe285913: Recipe = {
