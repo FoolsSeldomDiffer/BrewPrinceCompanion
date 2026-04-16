@@ -127,7 +127,7 @@ const recipe741938: Recipe = {
     "Measure twice, cut not once - all of the ingredients will be consumed in their entirety to guarantee harmony.",
     "The Panacea is a brew of balance - ensure that you do not overuse any ingredients, as this will throw off the equilibrium and render the brew ineffective.",
     "Ensure your cauldron is sufficiently filled with water - you will not be able to find Panacea without this vital component.",
-    "Brewing this potion takes a long time - ensure you are properly hydrated during the search for your Panacea"
+    "Brewing this potion takes a long time - you will surely need hydration on your search for the Panacea"
   ],
   solutionColor: "????" // ???
 };
