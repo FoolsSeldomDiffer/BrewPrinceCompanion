@@ -7,18 +7,29 @@ const initialRecipe: Recipe = {
   steps: [
     {
       title: "The Purple Bushel:",
-      description: "Seek the scent of serenity in a field of lilac blooms. Pluck the sprigs that soothe one's sleep and cast them into the seething liquid.",
-      ingredient: "lavender"
+      description: "Seek the scent of serenity in a field of lilac blooms. Pluck the sprigs that soothe one's sleep and cast them into the seething liquid - this calming base will provide a counterpart for the more volatile ingredients to come.",
+      ingredient: "lavender",
+      // Toevoegen tot #ee3197
     },
     {
       title: "A Leap of Faith:",
-      description: "Add the limb of the croaker from the muddy pool, she who leaps when the moon hides behind the clouds.",
+      description: "Add two limbs of the croaker from the muddy pool, she who leaps when the moon hides behind the clouds.",
       ingredient: "frogleg"
     },
     {
-      title: "The Verdant Hue",
-      description: "Ironically, the final touch for the Brew of Nightmares is a dash of soft, dark green. That being said, contrary to its soft appeal, the liquid is still highly acidic. Please refrain from handling these without the necessary safety precautions.",
-      ingredient: "green_liquid"
+      title: "Ominous Omen:",
+      description: "An ill omen - some avian critters mean naught but misfortune and dread to the common folk. One such sliver of violet should prove a worthy reagent for this potent brew.",
+      ingredient: "raven_feather"
+    },
+    {
+      title: "Dreaded Reptilians Life Essence :",
+      description: "No creature generates fear quite as much as the mighty dragon. To captivate horror in our brew, three drops of its scaly red blood should suffice.",
+      ingredient: "dragon_blood" // 3 keer
+    },
+    {
+      title: "Contrasting Calm",
+      description: "What was once used as a base for the horrors to come, will now top off this concoction with a hint of grace - a false portent of hope. ",
+      ingredient: "lavender"
     }
   ],
   additionalInstructions: [
@@ -26,7 +37,7 @@ const initialRecipe: Recipe = {
     "Ignore any and all hallucinations, visions and whispers that may arise during the brewing process.",
     "When the steam turns black and the liquid hums, the brew is ready for consumption."
   ],
-  solutionColor: "#228B22" // ForestGreen
+  solutionColor: "#3107b1" // ForestGreen
 };
 
 const recipe285913: Recipe = {
