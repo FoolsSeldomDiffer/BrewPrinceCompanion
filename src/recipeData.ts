@@ -109,7 +109,7 @@ const recipe741938: Recipe = {
     },
     {
       title: "Reptilian Avoidance:",
-      description: "However much power the mighty dragons possess, this brew does not stand to gain much from using their lifeforce. You will not use more than 1 component dragon blood for the Panacea.",
+      description: "For every dragon wing in the brew, it becomes brighter and flashier. To offset this, it must contain exactly half that amount of bat Wings. These will add a darker character to the potion.",
       ingredient: "none"
     },
     {
@@ -120,6 +120,11 @@ const recipe741938: Recipe = {
     {
       title: "Kaleidoscopic Creation:",
       description: "As a master Alchemist, you must trust your senses and let the colors guide you. The final brew is visually recognisable - its color does not match any of the colors you have brewed. In fact, no potion you could have actually created up until this point could have been the color that the Panacea will possess.",
+      ingredient: "none"
+    },
+    {
+      title: "Vegetarian Vacuum:",
+      description: "All components in the brew need an animalistic vivacity. There is no place for plant-based or otherwise non-animal items. Naturally, even mythical animals count as animals.",
       ingredient: "none"
     },
   ],
