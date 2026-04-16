@@ -17,8 +17,8 @@ const initialRecipe: Recipe = {
     },
     {
       title: "The Verdant Hue",
-      description: "Take a gift from the messenger of death, as black as the night itself, fallen from a wing that never sings.",
-      ingredient: "ravenfeather"
+      description: "Ironically, the final touch for the Brew of Nightmares is a dash of soft green. That being said, contrary to its soft appeal, the liquid is still highly acidic.",
+      ingredient: "green_liquid"
     }
   ],
   additionalInstructions: [
