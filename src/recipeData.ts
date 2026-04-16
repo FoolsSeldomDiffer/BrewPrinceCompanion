@@ -45,7 +45,7 @@ const recipe285913: Recipe = {
     },
     {
       title: "The Fiery Seal:",
-      description: "When violet is submerged in dynamic blue, freezing temperature alone is not sufficient to capture true time. To seal our flask with crystalized time, fiery hot magma must be used to ellicit the correct alchemical reaction.",
+      description: "When violet is submerged in dynamic blue, freezing temperature alone is not sufficient for temporal containment. To seal our flask with crystalized time, fiery hot magma must be used to ellicit the correct alchemical reaction.",
       ingredient: "firered_liquid"
     }
   ],
