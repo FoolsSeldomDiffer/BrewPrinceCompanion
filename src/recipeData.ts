@@ -99,30 +99,37 @@ const recipe510624: Recipe = {
 
 const recipe741938: Recipe = {
   id: "741938",
-  title: "The Elixir of Eternal Sight",
-  intro: "To see that which is hidden from mortal eyes, prepare this glowing tonic:",
+  title: "Placebo of Plasmatic Panacea - Timeless Tonic of Cure-All",
+  intro: "Your alchemical journey has brought you here, to the pinnacle of all equivalent exchange and mastery over brewery. By closely obeying the following rules and instructions, you will craft the Alpha and Omega - a consumable so divine that it has the power of life itself and has existed since the dawn of mankind. After consuming the previous conconctions, the Panacea will be able to cure you and finally grant you reprieve.",
   steps: [
     {
-      title: "The Golden Scale:",
-      description: "Take the shimmering scale of the sun-drake, found only in the peaks of the Fire Mountain.",
-      ingredient: "dragonscale"
+      title: "Avian Balance:",
+      description: "Your alchemical prowess has taught you that flying creatures embody great magical and elemental power. For the ultimate brew of Panacea, you will use equal parts of each of the avian components you have available.",
+      ingredient: "none"
     },
     {
-      title: "The Midnight Drop:",
-      description: "A single tear from the weeping willow that stands at the edge of the world.",
-      ingredient: "willowtear"
+      title: "Reptilian Avoidance:",
+      description: "However much power the mighty dragons possess, this brew does not stand to gain much from using their lifeforce. You will not use more than 1 component dragon blood for the Panacea.",
+      ingredient: "none"
     },
     {
-      title: "The Eye of the Abyss:",
-      description: "Add the dried pupil of the deep-sea lurker, preserved in brine for a century.",
-      ingredient: "lurkereye"
-    }
+      title: "Workplace Wunderkind:",
+      description: "During your journey, you have come to understand the layout of your tools and ingredients. You have come to the realisation that you need balance in all things. You will not find Panacea if you use more ingredients from one side of your alchemical station than another.",
+      ingredient: "none"
+    },
+    {
+      title: "Kaleidoscopic Creation:",
+      description: "As a master Alchemist, you must trust your senses and let the colors guide you. The final brew is visually recognisable - its color does not match any of the colors you have brewed. In fact, no potion you could have actually created up until this point could have been the color that the Panacea will possess.",
+      ingredient: "none"
+    },
   ],
   additionalInstructions: [
-    "Boil until the liquid glows with a soft golden hue.",
-    "Strain through a cloth woven from spider silk."
+    "Measure twice, cut not once - all of the ingredients will be consumed in their entirety to guarantee harmony.",
+    "The Panacea is a brew of balance - ensure that you do not overuse any ingredients, as this will throw off the equilibrium and render the brew ineffective.",
+    "Ensure your cauldron is sufficiently filled with water - you will not be able to find Panacea without this vital component.",
+    "Brewing this potion takes a long time - ensure you are properly hydrated during the search for your Panacea"
   ],
-  solutionColor: "#FFD700" // Gold
+  solutionColor: "????" // ???
 };
 
 export const allRecipes: Record<string, Recipe> = {
