@@ -72,7 +72,7 @@ const recipe285913: Recipe = {
 const recipe510624: Recipe = {
   id: "510624",
   title: "The Phial of Psychosomatic Strengthening",
-  intro: "It is widely known that the mind and body are one and the same - an afflicted spirit oft leads to a weakened state of the physical. The aspring alchemist can thus deduct, that fortifying the psyche of the individual, must cure the body in turn.",
+  intro: "It is widely known that the mind and body are one and the same - an afflicted spirit oft leads to a weakened state of the physical. The aspiring alchemist can thus deduct that fortifying the psyche of the individual, in turn must cure the body.",
   steps: [
     {
       title: "A Floral Foundation",
@@ -86,7 +86,7 @@ const recipe510624: Recipe = {
     },
     {
       title: "The Raven's Wing:",
-      description: "Once again, we must call upon the intellegent avian. A few components of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally We should aim to have our avian component slightly outweigh our plant-based foundation.",
+      description: "Once again, we must call upon the intelligent avian. A few components of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally We should aim to have our avian component slightly outweigh our plant-based foundation.",
       ingredient: "ravenfeather"
     }
   ],
