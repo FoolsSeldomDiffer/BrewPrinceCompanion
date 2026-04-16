@@ -9,7 +9,6 @@ const initialRecipe: Recipe = {
       title: "The Purple Bushel:",
       description: "Seek the scent of serenity in a field of lilac blooms. Pluck the sprigs that soothe one's sleep and cast them into the seething liquid - this calming base will provide a counterpart for the more volatile ingredients to come.",
       ingredient: "lavender",
-      // Toevoegen tot #ee3197
     },
     {
       title: "A Leap of Faith:",
