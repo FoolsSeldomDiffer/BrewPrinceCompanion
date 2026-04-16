@@ -75,9 +75,9 @@ const recipe510624: Recipe = {
   intro: "It is widely known that the mind and body are one and the same - an afflicted spirit oft leads to a weakened state of the physical. The aspring alchemist can thus deduct, that fortifying the psyche of the individual, must cure the body in turn.",
   steps: [
     {
-      title: "The Golden Nectar:",
-      description: "A common misconception is that Nectar is merely a vegetational substance. When used for an alchemical base, however, its latent mystical properties are truly unshackled. Its silky substance and stimulating aroma, enhanced by the alchemical processes, sharpen ones mind and provide immense clarity and serenity.",
-      ingredient: "golden_liquid"
+      title: "A Floral Foundation",
+      description: "For centuries, wise druids have attempted to achieve spiritual enlightenment in nature. Let us not ignore the wisdom they have gathered, and start by adding a floral foundation.",
+      ingredient: "lavender"
     },
     {
       title: "The Purple Heart:",
@@ -86,7 +86,7 @@ const recipe510624: Recipe = {
     },
     {
       title: "The Raven's Wing:",
-      description: "Once again, we call upon the intellegent avian. A single component of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally.",
+      description: "Once again, we must call upon the intellegent avian. A single component of its body will ensure a brew that is not only extremely potent, but will generate mental fortitude the likes of which cannot be experienced naturally.",
       ingredient: "ravenfeather"
     }
   ],
@@ -94,7 +94,7 @@ const recipe510624: Recipe = {
     "Stir clockwise with a rod made of pure gold.",
     "Whisper your deepest desire into the steam."
   ],
-  solutionColor: "#DAA520" // GoldenRod
+  solutionColor: "#DAA520" // Pink-ish hue
 };
 
 const recipe741938: Recipe = {
