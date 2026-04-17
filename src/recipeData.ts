@@ -94,7 +94,7 @@ const recipe510624: Recipe = {
     "Stir clockwise with a rod made of pure gold.",
     "Whisper your deepest desire into the steam."
   ],
-  solutionColor: "???" // Faint yellow-ish
+  solutionColor: "#eff55b" // Faint yellow-ish
 };
 
 const recipe741938: Recipe = {
@@ -109,7 +109,7 @@ const recipe741938: Recipe = {
     },
     {
       title: "Reptilian Avoidance:",
-      description: "For every dragon wing in the brew, it becomes brighter and flashier. To offset this, it must contain exactly half that amount of bat Wings. These will add a darker character to the potion.",
+      description: "For every drop of dragonblood in the brew, it becomes brighter and flashier. To offset this, it must contain exactly half that amount of bat wings. These will add a darker character to the potion.",
       ingredient: "none"
     },
     {
@@ -132,9 +132,9 @@ const recipe741938: Recipe = {
     "Measure twice, cut not once - all of the used ingredients will be consumed in their entirety to guarantee harmony.",
     "The Panacea is a brew of balance - ensure that you do not overuse any ingredients, as this will throw off the equilibrium and render the brew ineffective.",
     "Ensure your cauldron is sufficiently filled with water - you will not be able to find Panacea without this vital component.",
-    "Brewing this potion takes a long time - you will surely need hydration in your search for the Panacea"
+    "Brewing this potion takes a long time - you will surely need hydration in your search for the Panacea",
   ],
-  solutionColor: "????" // ???
+  solutionColor: "#fffff" // ???
 };
 
 export const allRecipes: Record<string, Recipe> = {
