@@ -124,7 +124,7 @@ const recipe741938: Recipe = {
     },
     {
       title: "Vegetarian Vacuum:",
-      description: "All components in the brew need an animalistic vivacity. There is no place for plant-based or otherwise non-animal items. Naturally, even mythical animals count as animals.",
+      description: "All components in the brew need an animalistic vivacity. There is no place for plant-based or otherwise non-animal items. No, not even bog water, even though that is technically teeming with life. Naturally, mythical animals do count as animals.",
       ingredient: "none"
     },
   ],
